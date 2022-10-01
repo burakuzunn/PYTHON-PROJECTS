@@ -1,2 +1,2 @@
 # opencv-denemeler
-opencv üzerinden resim video gibi şeylerde body taraması yapar.
+opencv üzerinden resim video gibi şeylerde vücut taraması yapar.
