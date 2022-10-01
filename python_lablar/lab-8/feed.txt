@@ -1,0 +1,5 @@
+http://feeds.feedburner.com/37signals/beMH
+http://feeds.feedburner.com/blogspot/bRuz
+http://battellemedia.com/index.xml
+http://feeds.feedburner.com/hotair/main
+http://blog.outer-court.com/rss.xml
